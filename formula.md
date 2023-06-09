@@ -12,5 +12,7 @@ donde $N$ es el **tamaño de la muestra**; también es usual referirnos a cada p
 
 La **medida de rendimiento P** depende del tipo de salida.
 
+PEPE
+
 
 
